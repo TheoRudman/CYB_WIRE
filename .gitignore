@@ -78,3 +78,11 @@ DerivedDataCache/*
 Content/CybWireRobot.uasset
 TimothyTex.psd
 Content/Stages/Level_2.umap
+Config/DefaultEngine.ini
+Content/Blueprints/PressurePlate.uasset
+Content/Blueprints/Pushing_Box.uasset
+Content/SideScrollerCPP/Blueprints/PressurePlate.uasset
+Content/SideScrollerCPP/Blueprints/Pushing_Box.uasset
+Content/SideScrollerCPP/Blueprints/SideScrollerCharacter.uasset
+Content/Stages/Level_1.umap
+Content/StarterContent/Architecture/Floor_400x400.uasset
